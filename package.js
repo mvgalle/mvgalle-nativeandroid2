@@ -1,10 +1,10 @@
 Package.describe({
   name: 'mvgalle:nativeandroid2',
-  version: '0.0.8',
+  version: '0.0.9',
   // Brief, one-line summary of the package.
   summary: 'port of http://nativedroid.godesign.ch/material/ to meteor',
   // URL to the Git repository containing the source code for this package.
-  git: '',
+  git: 'https://github.com/mvgalle/mvgalle-nativeandroid2',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
